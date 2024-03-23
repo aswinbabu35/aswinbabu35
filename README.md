@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aswin Babu
 - ✨ I’m interested Full Stack Web Development, Localization Engineering, NLP and much more!
-- 📢 I’m currently learning Python and Django Web Development through CS50p and CS50w.
+- 📢 I’m currently learning Django Web Development through CS50w.
 
 
 <!---
